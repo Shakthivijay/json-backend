@@ -1,0 +1,350 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "user": {
+          "id": 101,
+          "username": "john_doe",
+          "profile_pic": "src/assets/image-1.jpg"
+        },
+        "image": "src/assets/image-1.jpg",
+        "caption": "Beautiful sunset 🌅 #Nature",
+        "likes": 120,
+        "comments": [
+          {
+            "user": "alice_wonder",
+            "comment": "Wow! Amazing shot! 📸"
+          },
+          {
+            "user": "mark_92",
+            "comment": "Where is this place?"
+          }
+        ],
+        "timestamp": "2025-02-11T14:30:00Z"
+      },
+      {
+        "id": "2",
+        "user": {
+          "id": 102,
+          "username": "jane_smith",
+          "profile_pic": "src/assets/image-2.jpg"
+        },
+        "image": "src/assets/image-2.jpg",
+        "caption": "Delicious homemade pizza 🍕",
+        "likes": 95,
+        "comments": [
+          {
+            "user": "john_doe",
+            "comment": "Looks tasty!"
+          }
+        ],
+        "timestamp": "2025-02-12T16:45:00Z"
+      },
+      {
+        "id": "3",
+        "user": {
+          "id": 103,
+          "username": "alex_wilson",
+          "profile_pic": "src/assets/image-3.jpg"
+        },
+        "image": "src/assets/image-3.jpg",
+        "caption": "Morning workout! 💪 #Fitness",
+        "likes": 80,
+        "comments": [
+          {
+            "user": "sara_lee",
+            "comment": "Keep going!"
+          }
+        ],
+        "timestamp": "2025-02-13T07:15:00Z"
+      },
+      {
+        "id": "4",
+        "user": {
+          "id": 104,
+          "username": "sara_lee",
+          "profile_pic": "src/assets/image-4.jpg"
+        },
+        "image": "src/assets/image-4.jpg",
+        "caption": "Chilling with coffee ☕",
+        "likes": 150,
+        "comments": [
+          {
+            "user": "alex_wilson",
+            "comment": "Best way to start the day!"
+          }
+        ],
+        "timestamp": "2025-02-14T09:30:00Z"
+      },
+      {
+        "id": "5",
+        "user": {
+          "id": 105,
+          "username": "john_doe",
+          "profile_pic": "src/assets/image-5.jpg"
+        },
+        "image": "src/assets/image-5.jpg",
+        "caption": "Road trip vibes 🚗",
+        "likes": 180,
+        "comments": [
+          {
+            "user": "jane_smith",
+            "comment": "Drive safe!"
+          }
+        ],
+        "timestamp": "2025-02-15T11:00:00Z"
+      },
+      {
+        "id": "6",
+        "user": {
+          "id": 106,
+          "username": "jane_smith",
+          "profile_pic": "src/assets/image-6.jpg"
+        },
+        "image": "src/assets/image-6.jpg",
+        "caption": "Beach day fun! 🏖️",
+        "likes": 200,
+        "comments": [
+          {
+            "user": "john_doe",
+            "comment": "Wish I was there!"
+          }
+        ],
+        "timestamp": "2025-02-16T13:00:00Z"
+      },
+      {
+        "id": "7",
+        "user": {
+          "id": 107,
+          "username": "alex_wilson",
+          "profile_pic": "src/assets/image-7.jpg"
+        },
+        "image": "src/assets/image-7.jpg",
+        "caption": "Coding late night 💻",
+        "likes": 95,
+        "comments": [
+          {
+            "user": "sara_lee",
+            "comment": "Keep grinding!"
+          }
+        ],
+        "timestamp": "2025-02-17T23:00:00Z"
+      },
+      {
+        "id": "8",
+        "user": {
+          "id": 108,
+          "username": "sara_lee",
+          "profile_pic": "src/assets/image-8.jpg"
+        },
+        "image": "src/assets/image-8.jpg",
+        "caption": "Hiking adventure 🏔️",
+        "likes": 160,
+        "comments": [
+          {
+            "user": "alex_wilson",
+            "comment": "That view is insane!"
+          }
+        ],
+        "timestamp": "2025-02-18T06:45:00Z"
+      }
+    ],
+    "Profile": {
+      "id": 101,
+      "username": "Shakthivijay_04",
+      "profile_pic": "src/assets/s4.jpg"
+    },
+    "suggestion": [
+      {
+        "id": "101",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-1.jpg"
+      },
+      {
+        "id": "102",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-2.jpg"
+      },
+      {
+        "id": "103",
+        "username": "alex_wilson",
+        "profile_pic": "src/assets/image-3.jpg"
+      },
+      {
+        "id": "104",
+        "username": "sara_lee",
+        "profile_pic": "src/assets/image-4.jpg"
+      },
+      {
+        "id": "105",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-5.jpg"
+      },
+      {
+        "id": "106",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-6.jpg"
+      },
+      {
+        "id": "107",
+        "username": "alex_wilson",
+        "profile_pic": "src/assets/image-7.jpg"
+      },
+      {
+        "id": "108",
+        "username": "sara_lee",
+        "profile_pic": "src/assets/image-8.jpg"
+      }
+    ],
+    "story": [
+      {
+        "id": "1",
+        "user": {
+          "id": 101,
+          "username": "john_doe",
+          "profile_pic": "src/assets/image-1.jpg"
+        },
+        "image": "src/assets/s1.jpg"
+      },
+      {
+        "id": "2",
+        "user": {
+          "id": 102,
+          "username": "jane_smith",
+          "profile_pic": "src/assets/image-2.jpg"
+        },
+        "image": "src/assets/s2.jpg"
+      },
+      {
+        "id": "3",
+        "user": {
+          "id": 103,
+          "username": "alex_wilson",
+          "profile_pic": "src/assets/image-3.jpg"
+        },
+        "image": "src/assets/s3.jpg"
+      },
+      {
+        "id": "4",
+        "user": {
+          "id": 104,
+          "username": "sara_lee",
+          "profile_pic": "src/assets/image-4.jpg"
+        },
+        "image": "src/assets/s4.jpg"
+      },
+      {
+        "id": "5",
+        "user": {
+          "id": 105,
+          "username": "john_doe",
+          "profile_pic": "src/assets/image-5.jpg"
+        },
+        "image": "src/assets/s5.jpg"
+      },
+      {
+        "id": "6",
+        "user": {
+          "id": 106,
+          "username": "jane_smith",
+          "profile_pic": "src/assets/image-6.jpg"
+        },
+        "image": "src/assets/s6.jpg"
+      },
+      {
+        "id": "7",
+        "user": {
+          "id": 107,
+          "username": "alex_wilson",
+          "profile_pic": "src/assets/image-7.jpg"
+        },
+        "image": "src/assets/s7.jpg"
+      },
+      {
+        "id": "8",
+        "user": {
+          "id": 108,
+          "username": "sara_lee",
+          "profile_pic": "src/assets/image-8.jpg"
+        },
+        "image": "src/assets/s8.jpg"
+      }
+    ],
+    "followers": [
+      {
+        "id": "102",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-2.jpg"
+      },
+      {
+        "id": "103",
+        "username": "alex_wilson",
+        "profile_pic": "src/assets/image-3.jpg"
+      },
+      {
+        "id": "104",
+        "username": "sara_lee",
+        "profile_pic": "src/assets/image-4.jpg"
+      },
+      {
+        "id": "105",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-5.jpg"
+      },
+      {
+        "id": "106",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-6.jpg"
+      },
+      {
+        "id": "107",
+        "username": "alex_wilson",
+        "profile_pic": "src/assets/image-7.jpg"
+      },
+      {
+        "id": "106",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-6.jpg"
+      },
+      {
+        "id": "101",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-1.jpg"
+      },
+      {
+        "id": "101",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-1.jpg"
+      },
+      {
+        "id": "102",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-2.jpg"
+      },
+      {
+        "id": "103",
+        "username": "alex_wilson",
+        "profile_pic": "src/assets/image-3.jpg"
+      },
+      {
+        "id": "105",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-5.jpg"
+      },
+      {
+        "id": "102",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-2.jpg"
+      },
+      {
+        "id": "101",
+        "username": "john_doe",
+        "profile_pic": "src/assets/image-1.jpg"
+      },
+      {
+        "id": "102",
+        "username": "jane_smith",
+        "profile_pic": "src/assets/image-2.jpg"
+      }
+    ]
+  }
